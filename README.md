@@ -1,6 +1,7 @@
 # QR Code Reader
-
 A Flutter application for scanning QR codes and maintaining a history of scanned codes.
+
+![qrcode](https://github.com/user-attachments/assets/57da2c58-bc1d-471b-83a9-21c6b0dd2e27)
 
 ## Developer
 - **Name**: Rahaf Altwal
@@ -9,12 +10,12 @@ A Flutter application for scanning QR codes and maintaining a history of scanned
 
 ## Features
 
-- 📱 Real-time QR code scanning using device camera
+- 📱 Real-time QR code scanning using a device camera
 - 💡 Flash control for better scanning in low light
 - 🔄 Front/Back camera switching
 - 📋 Scan history storage
 - 📝 View scan details
-- 📋 Copy scanned codes to clipboard
+- 📋 Copy scanned codes to the clipboard
 - 🎨 Modern Material Design UI
 - 🌐 English interface
 
