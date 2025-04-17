@@ -112,8 +112,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For support, email [rahaftwal@gmail.com] or open an issue in the repository.
 
-## Acknowledgments
-
-- Flutter team for the amazing framework
-- Mobile Scanner package developers
-- All contributors to this project
